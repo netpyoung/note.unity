@@ -74,3 +74,15 @@ BinaryWriter out = new BinaryWriter(new BufferedStream(client.GetStream()));
 
 
 ## TCP/IP Sockets in C# - chapter 4 Beyond the Basics
+
+* http://blog.danggun.net/3596?category=302133
+SocketAsyncEventArgs - BytesTransferred
+
+# etc
+NetworkStream object internally use the blocking send and receive
+methods provided by the Socket object. T
+
+
+For TCP, the Socket object provides three methods that send data (Send, BeginSend
+and SendAsync) and three methods that receive data (Receive, BeginReceive and
+ReceiveAsync). T

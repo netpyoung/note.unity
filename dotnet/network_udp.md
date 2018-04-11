@@ -18,3 +18,9 @@ Multicast
 * 224.0.0.0 ~ 224.0.0.255
   - 까지가 라우팅 프로토콜과 네트워크 트래픽 제어용으로 사용되어 이미 예약되어 있기
 * 224.0.1.0 ~ 239.255.255.255
+
+
+
+
+# TOAST
+https://github.com/nhnent/toast-haste.sdk.dotnet
