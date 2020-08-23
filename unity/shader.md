@@ -1,6 +1,18 @@
-Unity Shaders and Effects Cookbook
-http://www.amazon.com/Unity-Shaders-Effects-Cookbook-Lammers/dp/1849695083
+asset
+Shader Calibration scene
+[물리 기반 Shader (PBS) 2 - 물리 기반 셰이더의 적용](https://edu.kocca.kr/edu/onlineEdu/openLecture/view.do?pSeq=581&pageIndex2=&pLectureCls=&&searchCnd=1&gubun=GC02&menuNo=500085&pageIndex=6)
 
+
+페이드인/아웃
+오브젝트가려짐
+dissolve
+아웃라인
+그림자
+
+https://www.youtube.com/channel/UCd9i2MKimSaKezat1xkn8-A/videos
+https://torchinsky.me/cel-shading/
+https://github.com/Masterexa/HoshiyukiToonShader
+https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
 
 
 C:\Program Files (x86)\Unity\Editor\Data\CGIncludes
